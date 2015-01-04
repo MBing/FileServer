@@ -1,0 +1,12 @@
+{
+  "name": "FileServer",
+  "version": "1.0.0",
+  "description": "Static File Server Project TF",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "MBing",
+  "license": "ISC"
+}
